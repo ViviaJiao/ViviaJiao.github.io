@@ -19,5 +19,5 @@ Raleigh, NC 27607
 Github: [ViviaJiao.github.io](https://github.com/ViviaJiao)
 
 
-![my_photo](/images/IMG_8062.jpg){width = 50%}
+![my_photo](/images/IMG_8062.jpg){width=2in}
 
