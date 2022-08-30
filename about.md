@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+library(knitr)
 ### Contact me
 
 [wjiao@nscu.edu](mailto:wjiao@nscu.edu)
