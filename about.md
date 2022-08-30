@@ -18,7 +18,7 @@ Raleigh, NC 27607
 
 Github: [ViviaJiao.github.io](https://github.com/ViviaJiao)
 
-```{r echo = FALSE}
+```{r image,echo = FALSE}
 knitr::include_graphics("/images/IMG_8062.jpg")
 ```
 
