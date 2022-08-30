@@ -16,12 +16,19 @@ Up to now, my main interest is related to **Causality** and **Missingness mechan
 
 **Teaching Experience**
 I've been working as teaching assistant or course instructor since Fall 2020 at North Carolina State University. Here are parts of my teaching experience. 
--ST307 Introduction to SAS programming
+
+- ST307 Introduction to SAS programming
+
 Course Instructor, Fall 2022
--ST555 Advanced SAS programming
+
+- ST555 Advanced SAS programming
+
 Teaching Assistant, Fall 2021
--ST558 Data Science for Statistician
+
+- ST558 Data Science for Statistician
+
 Teaching Assistant, Fall 2021
+
 ......
 
 
