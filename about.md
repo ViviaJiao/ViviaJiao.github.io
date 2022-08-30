@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-```{r}
-library(knitr)
-```
+
 ### Contact me
 
 [wjiao@nscu.edu](mailto:wjiao@nscu.edu)
@@ -20,6 +18,7 @@ Raleigh, NC 27607
 
 Github: [ViviaJiao.github.io](https://github.com/ViviaJiao)
 
-
-![my_photo](/images/IMG_8062.jpg){width=2in}
+```{r, out.width = "400px",echo = FALSE}
+knitr::include_graphics("/images/IMG_8062.jpg")
+```
 
